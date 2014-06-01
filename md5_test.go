@@ -1,6 +1,8 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 // Same test set as http://tools.ietf.org/html/rfc1321
 var md5Tests = []struct {

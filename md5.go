@@ -6,7 +6,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func runMd5() {
 	fmt.Println(GetMD5Hash("Hello World"))
 }
 

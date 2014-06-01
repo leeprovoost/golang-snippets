@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	InputFile = "source/country.txt"
+	InputFile  = "source/country.txt"
 	OutputFile = "output/country.csv"
 )
 
